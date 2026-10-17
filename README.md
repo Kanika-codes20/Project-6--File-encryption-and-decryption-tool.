@@ -1,5 +1,4 @@
 # Project-6--File-encryption-and-decryption-tool.
-# File Encryption & Decryption Tool
 
 A beginner-friendly Python cybersecurity project that encrypts and decrypts files using Fernet symmetric encryption from the `cryptography` library.
 
