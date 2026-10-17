@@ -119,4 +119,4 @@ This is one of my beginner cybersecurity portfolio projects, built as part of my
 
 **Author:** Kanika-codes20
 
-*Built with Python as a beginner cybersecurity learning project.* 🔐
+*Built with Python as a beginner cybersecurity learning project.* 
